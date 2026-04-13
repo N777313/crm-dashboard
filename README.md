@@ -36,5 +36,5 @@
 
 ## Завершение теста и результат работы
 
-- [Vercel-App-deployed](https://crm-dashboard-vercel-deploy-ouu9798kz-mawhdiys-projects.vercel.app/) - Link VercelApp
+- [Vercel-App-deployed](https://crm-dashboard-vercel-deploy.vercel.app/) - Link VercelApp
 - [Ссылка на GitHub](https://github.com/N777313/crm-dashboard) - Ссылка на GitHub-репо с кодом
