@@ -34,6 +34,7 @@
 - Скриншот уведомления из Telegram
 - В README репо опиши: какие промпты давал Claude Code, где застрял, как решил
 
-## Как сдать
+## Завершение теста и результат работы
 
 - [Vercel-App-deployed](https://crm-dashboard-vercel-deploy-ouu9798kz-mawhdiys-projects.vercel.app/) - Link VercelApp
+- [Ссылка на GitHub](https://github.com/N777313/crm-dashboard) - Ссылка на GitHub-репо с кодом
