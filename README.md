@@ -36,4 +36,4 @@
 
 ## Как сдать
 
-Отправь результат в Telegram: @DmitriyKrasnikov
+- [Vercel-App-deployed](https://crm-dashboard-vercel-deploy-ouu9798kz-mawhdiys-projects.vercel.app/) - Link VercelApp
